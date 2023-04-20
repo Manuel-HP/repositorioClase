@@ -9,8 +9,9 @@ public class Main {
     public static void main(String[] args) {
         int opcion;
         int indice;
-        do {
-            System.out.println("=== Menú principal ===");
+        do {            
+            System.out.println("=== Nueva línea añadida ===");
+            System.out.println("=== Línea modificada ===");
             System.out.println("1. Añadir producto");
             System.out.println("2. Borrar producto");
             System.out.println("3. Modificar producto");
